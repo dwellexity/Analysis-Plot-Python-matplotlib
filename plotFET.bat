@@ -1,1 +1,1 @@
-python D:\GitHub\Analysis-Plot-Python-matplotlib\plotFET.py %CD%
+python D:\GitHub\Analysis-Plot-Python-matplotlib\plotFET.py "%CD%"
